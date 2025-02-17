@@ -12,6 +12,6 @@
 
 ### 🔹 1. Склонировать репозиторий
 ```sh 
-git clone https://github.com/username/expa.git
+git clone https://github.com/Karac-POZ/Expense.git
 cd expa
 docker-compose up --build
