@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.log
+
+# Env files
+backend/.env
+frontend/.env
+
+# Build artifacts
+dist/
+build/
+
+# Docker
+docker-compose.override.yml
