@@ -13,5 +13,5 @@
 ### 🔹 1. Склонировать репозиторий
 ```sh 
 git clone https://github.com/Karac-POZ/Expense.git
-cd expa
+cd Expense
 docker-compose up --build
